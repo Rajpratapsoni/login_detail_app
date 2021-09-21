@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087763330701",
+    "project_id": "fir-bf890",
+    "storage_bucket": "fir-bf890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087763330701:android:1343dda322d8508e9014c4",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087763330701-ahoqg2ocqsnqs2uispt4a735hqj90ia2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM9YPA8AEVyy7h7MbrZfyQE3QJMoo--Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087763330701-ahoqg2ocqsnqs2uispt4a735hqj90ia2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
